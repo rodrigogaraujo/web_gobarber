@@ -4,6 +4,7 @@ Front end of the GoBarber application developed in the Rocketseat Bootcamp cours
 # Install
 - Visual Studio
 - git clone https://github.com/rodrigogaraujo/web_gobarber.git
+- yarn //install all dependencies
 
 # Libraries & Features
 - React
