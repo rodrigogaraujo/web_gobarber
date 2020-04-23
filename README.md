@@ -12,7 +12,7 @@ Front end of the GoBarber application developed in the Rocketseat Bootcamp cours
 - React icons
 
 # Preview
-<img src="https://github.com/rodrigogaraujo/web_gobarber/blob/master/gobarber.png" width="350"/>
+<img src="https://github.com/rodrigogaraujo/web_gobarber/blob/master/gobarber.png" width="450"/>
 
 # Contact
 rodrigoaraujo990@gmail.com
