@@ -21,7 +21,7 @@ export const Content = styled.div`
         margin: 80px 0;
         max-width: 340px;
         text-align: center;
-
+        width: 100%;
         h1 {
             margin-bottom: 24px;
         }
@@ -34,10 +34,6 @@ export const Content = styled.div`
         display: flex;
         align-items: center;
         transition: color 0.2s;
-
-        svg {
-            margin-right: 16px;
-        }
 
         &:hover {
             color: ${shade(0.2, "#f4ede8")};

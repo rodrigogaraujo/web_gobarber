@@ -21,6 +21,7 @@ export const Content = styled.div`
         margin: 80px 0;
         max-width: 340px;
         text-align: center;
+        width: 100%;
 
         h1 {
             margin-bottom: 24px;
