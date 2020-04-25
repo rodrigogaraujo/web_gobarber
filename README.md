@@ -14,6 +14,7 @@ Front end of the GoBarber application developed in the Rocketseat Bootcamp cours
 
 # Preview
 <img src="https://github.com/rodrigogaraujo/web_gobarber/blob/master/gobarber.png" width="450"/>
+<img src="https://github.com/rodrigogaraujo/web_gobarber/blob/master/signuptwo.png" width="450"/>
 
 # Contact
 rodrigoaraujo990@gmail.com
