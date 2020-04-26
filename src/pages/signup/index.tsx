@@ -6,8 +6,8 @@ import * as Yup from "yup";
 
 import getValidationErros from "../../utils/getValidationErros";
 import { Container, Content, Background } from "./styles";
-import Button from "../../components/button";
-import Input from "../../components/input";
+import Button from "../../components/Button";
+import Input from "../../components/Input";
 
 import logo from "../../assets/logo.svg";
 
